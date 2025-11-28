@@ -6,6 +6,7 @@ It fully automates bookings, rescheduling, cancellations, reminders, payments, a
 Patients simply send a WhatsApp message, and the AI handles everything automatically.
 
 ⭐ Features
+
 ✅ 1. AI-Powered WhatsApp Chat
 
 Understands patient messages
